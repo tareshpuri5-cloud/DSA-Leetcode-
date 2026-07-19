@@ -8,20 +8,18 @@ public:
             int mid = (low + high) / 2;
 
             if (nums[mid] == target) return true;
-
-            // Handle duplicates
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
             }
-            else if (nums[low] <= nums[mid]) { // Left half is sorted
+            else if (nums[low] <= nums[mid]) { 
                 if (nums[low] <= target && target < nums[mid]) {
                     high = mid - 1;
                 } else {
                     low = mid + 1;
                 }
             }
-            else { // Right half is sorted
+            else { 
                 if (nums[mid] < target && target <= nums[high]) {
                     low = mid + 1;
                 } else {
