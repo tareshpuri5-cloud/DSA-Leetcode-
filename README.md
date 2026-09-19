@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0905-sort-array-by-parity](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0016-3sum-closest) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
