@@ -10,23 +10,24 @@ public:
             if(lowdiacheck[row+col]==true) return false;
         return true;
     }
-    void storeSol(vector<vector<char>>&board,vector<vector<string>>&ans,int col){
-        vector<string>temp;
-        int n= board.size();
-        for(int col=0;col<n;col++){
-            string output;
-            for(int row=0;row<n;row++){
-               char ch = board[row][col];
-               output.push_back(ch);
-            }
-            temp.push_back(output);
-        }
-        // ans.push_back(temp);
-        count ++;
-    }
+    // void storeSol(vector<vector<char>>&board,vector<vector<string>>&ans,int col){
+    //     vector<string>temp;
+    //     int n= board.size();
+    //     for(int col=0;col<n;col++){
+    //         // string output;
+    //         for(int row=0;row<n;row++){
+    //            char ch = board[row][col];
+    //         //    output.push_back(ch);
+    //         }
+    //         // temp.push_back(output);
+    //     }
+    //     // ans.push_back(temp);
+    //     count ++;
+    // }
     void solveBoard(vector<vector<char>>&board,vector<vector<string>>&ans,int col,int n){
         if (col>=n){
-            storeSol(board,ans,col);
+            // storeSol(board,ans,col);
+            count++;
             return;
         }
         for(int row=0;row<n;row++){
