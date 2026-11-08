@@ -49,6 +49,9 @@ int totalNQueens(int n) {
         int col=0;
         vector<vector<char>>board(n, vector<char>(n, '.'));
         solveBoard(board,ans,col,n);
+        hzcheck.clear();
+        updiacheck.clear();
+        lowdiacheck.clear();
       return count;
     }
 };
