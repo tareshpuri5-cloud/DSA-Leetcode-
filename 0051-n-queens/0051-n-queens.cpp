@@ -49,7 +49,9 @@ public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
         int col =0;
-
+        leftHorizontalcheck.clear();
+        upperdiagonalcheck.clear();
+        lowerdiagonalcheck.clear();
        vector<vector<char>> board(n, vector<char>(n, '.'));
         solveBoard(board,ans,col,n);
         return ans;  
