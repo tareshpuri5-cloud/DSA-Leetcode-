@@ -21,7 +21,7 @@ public:
             }
             temp.push_back(output);
         }
-        ans.push_back(temp);
+        // ans.push_back(temp);
         count ++;
     }
     void solveBoard(vector<vector<char>>&board,vector<vector<string>>&ans,int col,int n){
