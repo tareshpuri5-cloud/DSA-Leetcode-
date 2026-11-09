@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
