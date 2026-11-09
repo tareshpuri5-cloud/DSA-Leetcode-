@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
