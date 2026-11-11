@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0905-sort-array-by-parity](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
 | ------- |
