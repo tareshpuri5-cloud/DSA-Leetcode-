@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
