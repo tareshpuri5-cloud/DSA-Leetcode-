@@ -15,7 +15,7 @@ public:
             head = first;   
             return ;
         }
-        if(second == nullptr ||second->next->next==nullptr || second->next->next->next == nullptr){
+        if(second == nullptr ||second->next->next==nullptr){
             head = first->next;
             return;   
         }
