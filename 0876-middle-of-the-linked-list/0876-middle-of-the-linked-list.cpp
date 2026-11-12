@@ -8,26 +8,41 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// class Solution {
+// public:
+//     void solve(ListNode*&head,ListNode*&first,ListNode*&second){
+//         if( second->next == nullptr ) {
+//             head = first;   
+//             return ;
+//         }
+//         if(second == nullptr ||second->next->next==nullptr){
+//             head = first->next;
+//             return;   
+//         }
+//         first = first->next;
+//         second = second->next->next;
+//         solve(head,first,second);
+       
+//     }
+//     ListNode* middleNode(ListNode* head) {
+//         ListNode*first = head;
+//         ListNode*second = head;
+//         solve(head,first,second);
+//         return head;
+//     }
+// };
 class Solution {
 public:
-    void solve(ListNode*&head,ListNode*&first,ListNode*&second){
-        if( second->next == nullptr ) {
-            head = first;   
-            return ;
-        }
-        if(second == nullptr ||second->next->next==nullptr){
-            head = first->next;
-            return;   
-        }
-        first = first->next;
-        second = second->next->next;
-        solve(head,first,second);
-       
-    }
     ListNode* middleNode(ListNode* head) {
-        ListNode*first = head;
-        ListNode*second = head;
-        solve(head,first,second);
+        ListNode* first = head;
+        ListNode* second = head;
+
+        while (second != nullptr && second->next != nullptr) {
+            first = first->next;
+            second = second->next->next;
+        }
+
+        head = first;
         return head;
     }
 };
