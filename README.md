@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
