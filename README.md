@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
