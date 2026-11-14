@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
