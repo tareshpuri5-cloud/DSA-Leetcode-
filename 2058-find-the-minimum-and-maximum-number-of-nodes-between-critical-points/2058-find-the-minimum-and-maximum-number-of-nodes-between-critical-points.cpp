@@ -38,13 +38,11 @@ public:
             curr=curr->next;
 
         }
-        if(prevCritical!=-1 && currCritical!=-1){
-            maxDist = currCritical - firstCritical;
-        }
+
         if(firstCritical==-1 || currCritical==-1){ 
             return{-1,-1};
         }else{
-            return{minDist,maxDist};
+            return{minDist,currCritical - firstCritical};
         }
     }
 };
