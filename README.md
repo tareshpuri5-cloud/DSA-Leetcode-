@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0048-rotate-image) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tareshpuri5-cloud/DSA-Leetcode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
